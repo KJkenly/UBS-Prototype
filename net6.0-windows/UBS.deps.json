@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "UBS/1.11": {
+      "UBS/1.12": {
         "dependencies": {
           "FontAwesome.WPF": "4.7.0.9",
           "HandyControls": "3.4.5",
@@ -302,7 +302,7 @@
     }
   },
   "libraries": {
-    "UBS/1.11": {
+    "UBS/1.12": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
